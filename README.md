@@ -6,5 +6,5 @@ Fornece informações da distribuição diária das viagens, da quantidade de vi
 
 ## Fonte de dados
 
-Itinerário e paradas das linhas advindo dos dados de GTFS.
-Distribuição horária das viagens, quantidade de viagens por tipo de pagamento e quantidade total advindos dos dados de smartcard.
+Itinerário e paradas das linhas: dados GTFS  
+Distribuição horária das viagens, quantidade de viagens por tipo de pagamento e quantidade total de viagens: dados de *smartcard* de março de 2018
