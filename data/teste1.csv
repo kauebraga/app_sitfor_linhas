@@ -1,0 +1,1245 @@
+linha,tipo_cartao,n
+101 - Beira Rio,Estudante,1426
+101 - Beira Rio,Gratuidade,839
+101 - Beira Rio,Inteira,1069
+101 - Beira Rio,Vale Transporte,3258
+102 - Vila Sto. Antonio/Ns,Estudante,642
+102 - Vila Sto. Antonio/Ns,Gratuidade,591
+102 - Vila Sto. Antonio/Ns,Inteira,409
+102 - Vila Sto. Antonio/Ns,Vale Transporte,1405
+106 - FLORESTA/CENTRO,Estudante,255
+106 - FLORESTA/CENTRO,Gratuidade,186
+106 - FLORESTA/CENTRO,Inteira,327
+106 - FLORESTA/CENTRO,Vale Transporte,611
+108 - SANTA MARIA/BAIRRO E,Estudante,771
+108 - SANTA MARIA/BAIRRO E,Gratuidade,499
+108 - SANTA MARIA/BAIRRO E,Inteira,834
+108 - SANTA MARIA/BAIRRO E,Vale Transporte,1490
+10 - TERMINAL SIQUEIRA,Estudante,710
+10 - TERMINAL SIQUEIRA,Gratuidade,303
+10 - TERMINAL SIQUEIRA,Inteira,760
+10 - TERMINAL SIQUEIRA,Vale Transporte,3383
+110 - Vila do Mar/Centro,Estudante,460
+110 - Vila do Mar/Centro,Gratuidade,301
+110 - Vila do Mar/Centro,Inteira,488
+110 - Vila do Mar/Centro,Vale Transporte,926
+111 - Jardim Iracema,Estudante,786
+111 - Jardim Iracema,Gratuidade,593
+111 - Jardim Iracema,Inteira,1352
+111 - Jardim Iracema,Vale Transporte,1969
+112 - Alvaro Weyne/Centro,Estudante,589
+112 - Alvaro Weyne/Centro,Gratuidade,468
+112 - Alvaro Weyne/Centro,Inteira,732
+112 - Alvaro Weyne/Centro,Vale Transporte,1219
+114 - Cj Nova Assuncao/Fra,Estudante,1068
+114 - Cj Nova Assuncao/Fra,Gratuidade,594
+114 - Cj Nova Assuncao/Fra,Inteira,1550
+114 - Cj Nova Assuncao/Fra,Vale Transporte,2358
+115 - Jardim Guanabara/Fra,Estudante,862
+115 - Jardim Guanabara/Fra,Gratuidade,489
+115 - Jardim Guanabara/Fra,Inteira,1253
+115 - Jardim Guanabara/Fra,Vale Transporte,1836
+11 - Circular 1,Estudante,1620
+11 - Circular 1,Gratuidade,365
+11 - Circular 1,Inteira,1261
+11 - Circular 1,Vale Transporte,2741
+120 - VILA DO MAR / ANTONI,Estudante,348
+120 - VILA DO MAR / ANTONI,Gratuidade,127
+120 - VILA DO MAR / ANTONI,Inteira,630
+120 - VILA DO MAR / ANTONI,Vale Transporte,1119
+122 - Antonio Bezerra/Alva,Estudante,605
+122 - Antonio Bezerra/Alva,Gratuidade,223
+122 - Antonio Bezerra/Alva,Inteira,866
+122 - Antonio Bezerra/Alva,Vale Transporte,1310
+12 - Circular 2,Estudante,1704
+12 - Circular 2,Gratuidade,426
+12 - Circular 2,Inteira,1248
+12 - Circular 2,Vale Transporte,2826
+132 - VILA SANTO ANTONIO/R,Estudante,129
+132 - VILA SANTO ANTONIO/R,Gratuidade,10
+132 - VILA SANTO ANTONIO/R,Inteira,67
+132 - VILA SANTO ANTONIO/R,Vale Transporte,261
+13 - Aguanambi 1,Estudante,211
+13 - Aguanambi 1,Gratuidade,99
+13 - Aguanambi 1,Inteira,310
+13 - Aguanambi 1,Vale Transporte,485
+14 - Aguanambi 2,Estudante,309
+14 - Aguanambi 2,Gratuidade,167
+14 - Aguanambi 2,Inteira,483
+14 - Aguanambi 2,Vale Transporte,754
+15 - Cj Ceara/Antonio Bez,Estudante,1001
+15 - Cj Ceara/Antonio Bez,Gratuidade,409
+15 - Cj Ceara/Antonio Bez,Inteira,1501
+15 - Cj Ceara/Antonio Bez,Vale Transporte,2070
+16 - CUCA BARRA/PAPICU,Estudante,280
+16 - CUCA BARRA/PAPICU,Gratuidade,51
+16 - CUCA BARRA/PAPICU,Inteira,440
+16 - CUCA BARRA/PAPICU,Vale Transporte,859
+17 - Intershoppings,Inteira,682
+17 - Intershoppings,Vale Transporte,489
+19 - MESSEJANA/PAPICU/MAN,Estudante,913
+19 - MESSEJANA/PAPICU/MAN,Gratuidade,124
+19 - MESSEJANA/PAPICU/MAN,Inteira,871
+19 - MESSEJANA/PAPICU/MAN,Vale Transporte,1536
+1 - TERM.ANT.BEZERRA,Estudante,1486
+1 - TERM.ANT.BEZERRA,Gratuidade,357
+1 - TERM.ANT.BEZERRA,Inteira,4403
+1 - TERM.ANT.BEZERRA,Vale Transporte,3605
+200 - ANTONIO BEZERRA/CENT,Estudante,1411
+200 - ANTONIO BEZERRA/CENT,Gratuidade,87
+200 - ANTONIO BEZERRA/CENT,Inteira,1355
+200 - ANTONIO BEZERRA/CENT,Vale Transporte,2093
+205 - Dom Lustosa,Estudante,263
+205 - Dom Lustosa,Gratuidade,112
+205 - Dom Lustosa,Inteira,364
+205 - Dom Lustosa,Vale Transporte,554
+206 - PADRE ANDRADE/ANTO,Estudante,251
+206 - PADRE ANDRADE/ANTO,Gratuidade,123
+206 - PADRE ANDRADE/ANTO,Inteira,235
+206 - PADRE ANDRADE/ANTO,Vale Transporte,466
+210 - Quintino Cunha/Anton,Estudante,879
+210 - Quintino Cunha/Anton,Gratuidade,230
+210 - Quintino Cunha/Anton,Inteira,1134
+210 - Quintino Cunha/Anton,Vale Transporte,1684
+211 - Olavo Oliveira/Vila,Estudante,859
+211 - Olavo Oliveira/Vila,Gratuidade,375
+211 - Olavo Oliveira/Vila,Inteira,1178
+211 - Olavo Oliveira/Vila,Vale Transporte,1780
+212 - Jd.Guanabara/N. A. 1,Estudante,686
+212 - Jd.Guanabara/N. A. 1,Gratuidade,299
+212 - Jd.Guanabara/N. A. 1,Inteira,885
+212 - Jd.Guanabara/N. A. 1,Vale Transporte,1404
+213 - Jd.Guanabara/N. A. 2,Estudante,1006
+213 - Jd.Guanabara/N. A. 2,Gratuidade,264
+213 - Jd.Guanabara/N. A. 2,Inteira,983
+213 - Jd.Guanabara/N. A. 2,Vale Transporte,1666
+214 - Estacao/Pio Saraiva,Estudante,520
+214 - Estacao/Pio Saraiva,Gratuidade,200
+214 - Estacao/Pio Saraiva,Inteira,580
+214 - Estacao/Pio Saraiva,Vale Transporte,1511
+215 - Autran Nunes,Estudante,282
+215 - Autran Nunes,Gratuidade,54
+215 - Autran Nunes,Inteira,389
+215 - Autran Nunes,Vale Transporte,649
+216 - Antonio Bezerra,Estudante,420
+216 - Antonio Bezerra,Gratuidade,44
+216 - Antonio Bezerra,Inteira,335
+216 - Antonio Bezerra,Vale Transporte,601
+217 - Estacao/Pio Saraiva,Estudante,168
+217 - Estacao/Pio Saraiva,Gratuidade,44
+217 - Estacao/Pio Saraiva,Inteira,213
+217 - Estacao/Pio Saraiva,Vale Transporte,239
+21 - Luc. Cavalca./Papicu,Estudante,811
+21 - Luc. Cavalca./Papicu,Gratuidade,162
+21 - Luc. Cavalca./Papicu,Inteira,620
+21 - Luc. Cavalca./Papicu,Vale Transporte,1257
+220 - Av. Sargento Hermini,Estudante,1134
+220 - Av. Sargento Hermini,Gratuidade,459
+220 - Av. Sargento Hermini,Inteira,1689
+220 - Av. Sargento Hermini,Vale Transporte,2362
+221 - VILA VELHA/RIOMAR KE,Estudante,89
+221 - VILA VELHA/RIOMAR KE,Gratuidade,34
+221 - VILA VELHA/RIOMAR KE,Inteira,81
+221 - VILA VELHA/RIOMAR KE,Vale Transporte,183
+222 - ANTONIO BEZERRA/PAPI,Estudante,2725
+222 - ANTONIO BEZERRA/PAPI,Gratuidade,160
+222 - ANTONIO BEZERRA/PAPI,Inteira,2288
+222 - ANTONIO BEZERRA/PAPI,Vale Transporte,4219
+225 - Joao Arruda,Estudante,404
+225 - Joao Arruda,Gratuidade,117
+225 - Joao Arruda,Inteira,475
+225 - Joao Arruda,Vale Transporte,718
+226 - EXP/A.BEZ/MES,Estudante,522
+226 - EXP/A.BEZ/MES,Gratuidade,29
+226 - EXP/A.BEZ/MES,Inteira,621
+226 - EXP/A.BEZ/MES,Vale Transporte,1344
+22 - Jd. Oliveiras/Centro,Estudante,381
+22 - Jd. Oliveiras/Centro,Gratuidade,168
+22 - Jd. Oliveiras/Centro,Inteira,424
+22 - Jd. Oliveiras/Centro,Vale Transporte,838
+23 - Corujao/Edson Queiro,Estudante,1
+23 - Corujao/Edson Queiro,Inteira,2
+23 - Corujao/Edson Queiro,Vale Transporte,5
+243 - Parque Univ./Ant. Be,Estudante,305
+243 - Parque Univ./Ant. Be,Gratuidade,49
+243 - Parque Univ./Ant. Be,Inteira,400
+243 - Parque Univ./Ant. Be,Vale Transporte,619
+244 - ANTONIO BEZERRA/PARA,Estudante,782
+244 - ANTONIO BEZERRA/PARA,Gratuidade,155
+244 - ANTONIO BEZERRA/PARA,Inteira,698
+244 - ANTONIO BEZERRA/PARA,Vale Transporte,1028
+24 - ANTONIO BEZERRA/LAGO,Estudante,4157
+24 - ANTONIO BEZERRA/LAGO,Gratuidade,422
+24 - ANTONIO BEZERRA/LAGO,Inteira,2937
+24 - ANTONIO BEZERRA/LAGO,Vale Transporte,5358
+25 - LAGOA/OPAIA,Estudante,175
+25 - LAGOA/OPAIA,Gratuidade,68
+25 - LAGOA/OPAIA,Inteira,222
+25 - LAGOA/OPAIA,Vale Transporte,398
+260 - QUINTINO CUNHA/RIOMA,Estudante,50
+260 - QUINTINO CUNHA/RIOMA,Gratuidade,10
+260 - QUINTINO CUNHA/RIOMA,Inteira,29
+260 - QUINTINO CUNHA/RIOMA,Vale Transporte,75
+26 - Antonio Bezerra/Mess,Estudante,1927
+26 - Antonio Bezerra/Mess,Gratuidade,149
+26 - Antonio Bezerra/Mess,Inteira,2624
+26 - Antonio Bezerra/Mess,Vale Transporte,3856
+27 - Siqueira/Papicu/Aero,Estudante,1555
+27 - Siqueira/Papicu/Aero,Gratuidade,223
+27 - Siqueira/Papicu/Aero,Inteira,1925
+27 - Siqueira/Papicu/Aero,Vale Transporte,4034
+286 - EXP/BEZ/SDUM,Estudante,230
+286 - EXP/BEZ/SDUM,Gratuidade,38
+286 - EXP/BEZ/SDUM,Inteira,350
+286 - EXP/BEZ/SDUM,Vale Transporte,807
+28 - Antonio Bezerra/Papi,Estudante,2270
+28 - Antonio Bezerra/Papi,Gratuidade,300
+28 - Antonio Bezerra/Papi,Inteira,3273
+28 - Antonio Bezerra/Papi,Vale Transporte,4506
+29 - Parangaba/Nautico,Estudante,2908
+29 - Parangaba/Nautico,Gratuidade,218
+29 - Parangaba/Nautico,Inteira,2150
+29 - Parangaba/Nautico,Vale Transporte,4075
+302 - RODOLFO TEOFILO/JOSE,Estudante,206
+302 - RODOLFO TEOFILO/JOSE,Gratuidade,135
+302 - RODOLFO TEOFILO/JOSE,Inteira,262
+302 - RODOLFO TEOFILO/JOSE,Vale Transporte,426
+303 - Igreja Sao Raimundo,Estudante,235
+303 - Igreja Sao Raimundo,Gratuidade,91
+303 - Igreja Sao Raimundo,Inteira,283
+303 - Igreja Sao Raimundo,Vale Transporte,391
+304 - Bela Vista/Lagoa,Estudante,265
+304 - Bela Vista/Lagoa,Gratuidade,167
+304 - Bela Vista/Lagoa,Inteira,435
+304 - Bela Vista/Lagoa,Vale Transporte,618
+305 - Bela Vista/Humberto,Estudante,335
+305 - Bela Vista/Humberto,Gratuidade,146
+305 - Bela Vista/Humberto,Inteira,287
+305 - Bela Vista/Humberto,Vale Transporte,657
+307 - Itaoca/Jardim Americ,Estudante,432
+307 - Itaoca/Jardim Americ,Gratuidade,134
+307 - Itaoca/Jardim Americ,Inteira,387
+307 - Itaoca/Jardim Americ,Vale Transporte,554
+308 - Democrito Rocha,Estudante,344
+308 - Democrito Rocha,Gratuidade,144
+308 - Democrito Rocha,Inteira,431
+308 - Democrito Rocha,Vale Transporte,663
+309 - Cj Sumare/Parangaba,Estudante,425
+309 - Cj Sumare/Parangaba,Gratuidade,121
+309 - Cj Sumare/Parangaba,Inteira,322
+309 - Cj Sumare/Parangaba,Vale Transporte,482
+30 - Siqueira/Papicu/13 d,Estudante,3542
+30 - Siqueira/Papicu/13 d,Gratuidade,423
+30 - Siqueira/Papicu/13 d,Inteira,2515
+30 - Siqueira/Papicu/13 d,Vale Transporte,4873
+310 - Campus Univ./Pan Ame,Estudante,306
+310 - Campus Univ./Pan Ame,Gratuidade,105
+310 - Campus Univ./Pan Ame,Inteira,317
+310 - Campus Univ./Pan Ame,Vale Transporte,587
+311 - Castelao/Parangaba,Estudante,818
+311 - Castelao/Parangaba,Gratuidade,215
+311 - Castelao/Parangaba,Inteira,677
+311 - Castelao/Parangaba,Vale Transporte,1244
+312 - Dias Macedo/Parangab,Estudante,574
+312 - Dias Macedo/Parangab,Gratuidade,221
+312 - Dias Macedo/Parangab,Inteira,566
+312 - Dias Macedo/Parangab,Vale Transporte,904
+313 - Parangaba/Alto da Pa,Estudante,560
+313 - Parangaba/Alto da Pa,Gratuidade,138
+313 - Parangaba/Alto da Pa,Inteira,602
+313 - Parangaba/Alto da Pa,Vale Transporte,803
+314 - Henrique Jorge,Estudante,448
+314 - Henrique Jorge,Gratuidade,163
+314 - Henrique Jorge,Inteira,474
+314 - Henrique Jorge,Vale Transporte,746
+315 - Messejana/Parangaba,Estudante,1029
+315 - Messejana/Parangaba,Gratuidade,174
+315 - Messejana/Parangaba,Inteira,1101
+315 - Messejana/Parangaba,Vale Transporte,1458
+316 - Genibau/Centro,Estudante,344
+316 - Genibau/Centro,Gratuidade,62
+316 - Genibau/Centro,Inteira,407
+316 - Genibau/Centro,Vale Transporte,586
+317 - Cidade Nova/Parangab,Estudante,816
+317 - Cidade Nova/Parangab,Gratuidade,248
+317 - Cidade Nova/Parangab,Inteira,1134
+317 - Cidade Nova/Parangab,Vale Transporte,1504
+318 - Av. Lineu Machado,Estudante,246
+318 - Av. Lineu Machado,Gratuidade,27
+318 - Av. Lineu Machado,Inteira,287
+318 - Av. Lineu Machado,Vale Transporte,394
+319 - Pq.Sao Jose/Osorio d,Estudante,449
+319 - Pq.Sao Jose/Osorio d,Gratuidade,149
+319 - Pq.Sao Jose/Osorio d,Inteira,603
+319 - Pq.Sao Jose/Osorio d,Vale Transporte,887
+31 - Av. Borges de Melo 1,Estudante,1459
+31 - Av. Borges de Melo 1,Gratuidade,442
+31 - Av. Borges de Melo 1,Inteira,1499
+31 - Av. Borges de Melo 1,Vale Transporte,3520
+320 - Joao  XXIII/Centro,Estudante,283
+320 - Joao  XXIII/Centro,Gratuidade,53
+320 - Joao  XXIII/Centro,Inteira,291
+320 - Joao  XXIII/Centro,Vale Transporte,493
+321 - Jardim Uniao/Paranga,Estudante,953
+321 - Jardim Uniao/Paranga,Gratuidade,240
+321 - Jardim Uniao/Paranga,Inteira,1024
+321 - Jardim Uniao/Paranga,Vale Transporte,1621
+322 - Granja Portugal/Lago,Estudante,394
+322 - Granja Portugal/Lago,Gratuidade,142
+322 - Granja Portugal/Lago,Inteira,532
+322 - Granja Portugal/Lago,Vale Transporte,749
+323 - Joao XXIII/Lagoa,Estudante,465
+323 - Joao XXIII/Lagoa,Gratuidade,134
+323 - Joao XXIII/Lagoa,Inteira,571
+323 - Joao XXIII/Lagoa,Vale Transporte,676
+324 - Cj Ceara/1a Etapa,Estudante,124
+324 - Cj Ceara/1a Etapa,Gratuidade,7
+324 - Cj Ceara/1a Etapa,Inteira,94
+324 - Cj Ceara/1a Etapa,Vale Transporte,132
+325 - ARACAPE/SIQUEIRA,Estudante,391
+325 - ARACAPE/SIQUEIRA,Gratuidade,110
+325 - ARACAPE/SIQUEIRA,Inteira,363
+325 - ARACAPE/SIQUEIRA,Vale Transporte,479
+327 - Cj Ceara/4a Etapa,Estudante,479
+327 - Cj Ceara/4a Etapa,Gratuidade,210
+327 - Cj Ceara/4a Etapa,Inteira,1012
+327 - Cj Ceara/4a Etapa,Vale Transporte,1258
+329 - Parque Santa Rosa/Si,Estudante,397
+329 - Parque Santa Rosa/Si,Gratuidade,182
+329 - Parque Santa Rosa/Si,Inteira,619
+329 - Parque Santa Rosa/Si,Vale Transporte,960
+32 - Av. Borges de Melo 2,Estudante,1373
+32 - Av. Borges de Melo 2,Gratuidade,451
+32 - Av. Borges de Melo 2,Inteira,1655
+32 - Av. Borges de Melo 2,Vale Transporte,3469
+330 - Cj Esperanca/Siqueir,Estudante,305
+330 - Cj Esperanca/Siqueir,Gratuidade,103
+330 - Cj Esperanca/Siqueir,Inteira,487
+330 - Cj Esperanca/Siqueir,Vale Transporte,608
+331 - Cj Esperanca/Centro,Estudante,652
+331 - Cj Esperanca/Centro,Gratuidade,215
+331 - Cj Esperanca/Centro,Inteira,647
+331 - Cj Esperanca/Centro,Vale Transporte,1373
+332 - Siqueira/Lagoa,Estudante,148
+332 - Siqueira/Lagoa,Gratuidade,67
+332 - Siqueira/Lagoa,Inteira,230
+332 - Siqueira/Lagoa,Vale Transporte,296
+333 - Bom Jardim/Centro,Estudante,614
+333 - Bom Jardim/Centro,Gratuidade,207
+333 - Bom Jardim/Centro,Inteira,802
+333 - Bom Jardim/Centro,Vale Transporte,1077
+334 - Modubim/Siqueira,Estudante,105
+334 - Modubim/Siqueira,Gratuidade,46
+334 - Modubim/Siqueira,Inteira,148
+334 - Modubim/Siqueira,Vale Transporte,269
+335 - Bom Jardim 1,Estudante,834
+335 - Bom Jardim 1,Gratuidade,237
+335 - Bom Jardim 1,Inteira,1095
+335 - Bom Jardim 1,Vale Transporte,1697
+336 - Parque Santa Cecilia,Estudante,541
+336 - Parque Santa Cecilia,Gratuidade,194
+336 - Parque Santa Cecilia,Inteira,733
+336 - Parque Santa Cecilia,Vale Transporte,993
+337 - Jardim Jatoba/Siquei,Estudante,457
+337 - Jardim Jatoba/Siquei,Gratuidade,142
+337 - Jardim Jatoba/Siquei,Inteira,915
+337 - Jardim Jatoba/Siquei,Vale Transporte,1113
+338 - Canindezinho,Estudante,544
+338 - Canindezinho,Gratuidade,189
+338 - Canindezinho,Inteira,1023
+338 - Canindezinho,Vale Transporte,1208
+339 - Cj Veneza Tropical/M,Estudante,406
+339 - Cj Veneza Tropical/M,Gratuidade,88
+339 - Cj Veneza Tropical/M,Inteira,338
+339 - Cj Veneza Tropical/M,Vale Transporte,517
+33 - Corujao/Circular 1,Inteira,2
+33 - Corujao/Circular 1,Vale Transporte,5
+340 - Cj Itaperi,Estudante,400
+340 - Cj Itaperi,Gratuidade,101
+340 - Cj Itaperi,Inteira,367
+340 - Cj Itaperi,Vale Transporte,566
+341 - Cj Ceara/Centro/3a E,Estudante,1276
+341 - Cj Ceara/Centro/3a E,Gratuidade,237
+341 - Cj Ceara/Centro/3a E,Inteira,1427
+341 - Cj Ceara/Centro/3a E,Vale Transporte,2253
+342 - Parque Sao Vicente,Estudante,425
+342 - Parque Sao Vicente,Gratuidade,160
+342 - Parque Sao Vicente,Inteira,655
+342 - Parque Sao Vicente,Vale Transporte,897
+343 - Cj Ceara/Centro/2a,Estudante,1332
+343 - Cj Ceara/Centro/2a,Gratuidade,288
+343 - Cj Ceara/Centro/2a,Inteira,1379
+343 - Cj Ceara/Centro/2a,Vale Transporte,2280
+344 - Vila Betania/Paranga,Estudante,365
+344 - Vila Betania/Paranga,Gratuidade,156
+344 - Vila Betania/Paranga,Inteira,319
+344 - Vila Betania/Paranga,Vale Transporte,573
+345 - Cj Ceara/Siqueira,Estudante,760
+345 - Cj Ceara/Siqueira,Gratuidade,319
+345 - Cj Ceara/Siqueira,Inteira,1312
+345 - Cj Ceara/Siqueira,Vale Transporte,1718
+346 - Jardim Fluminense,Estudante,573
+346 - Jardim Fluminense,Gratuidade,180
+346 - Jardim Fluminense,Inteira,759
+346 - Jardim Fluminense,Vale Transporte,961
+347 - Cj Jose Walter/Paran,Estudante,705
+347 - Cj Jose Walter/Paran,Gratuidade,179
+347 - Cj Jose Walter/Paran,Inteira,688
+347 - Cj Jose Walter/Paran,Vale Transporte,1263
+348 - AV LINEU MACHADO/SP2,Estudante,165
+348 - AV LINEU MACHADO/SP2,Gratuidade,12
+348 - AV LINEU MACHADO/SP2,Inteira,127
+348 - AV LINEU MACHADO/SP2,Vale Transporte,206
+349 - Cj Veneza Tropical/M,Estudante,391
+349 - Cj Veneza Tropical/M,Gratuidade,100
+349 - Cj Veneza Tropical/M,Inteira,314
+349 - Cj Veneza Tropical/M,Vale Transporte,498
+34 - Corujao/Av. Paranjan,Estudante,7
+34 - Corujao/Av. Paranjan,Gratuidade,1
+34 - Corujao/Av. Paranjan,Inteira,16
+34 - Corujao/Av. Paranjan,Vale Transporte,41
+350 - Av. Jose Bastos,Estudante,815
+350 - Av. Jose Bastos,Gratuidade,217
+350 - Av. Jose Bastos,Inteira,725
+350 - Av. Jose Bastos,Vale Transporte,1289
+351 - Joquei/Bonsucesso,Estudante,521
+351 - Joquei/Bonsucesso,Gratuidade,154
+351 - Joquei/Bonsucesso,Inteira,427
+351 - Joquei/Bonsucesso,Vale Transporte,683
+353 - Parangaba/Parque Ver,Estudante,418
+353 - Parangaba/Parque Ver,Gratuidade,102
+353 - Parangaba/Parque Ver,Inteira,472
+353 - Parangaba/Parque Ver,Vale Transporte,573
+354 - CJ NOVO LAR/SIQUEIRA,Estudante,33
+354 - CJ NOVO LAR/SIQUEIRA,Gratuidade,27
+354 - CJ NOVO LAR/SIQUEIRA,Inteira,59
+354 - CJ NOVO LAR/SIQUEIRA,Vale Transporte,82
+355 - Siqueira/Jose Bastos,Estudante,1949
+355 - Siqueira/Jose Bastos,Gratuidade,637
+355 - Siqueira/Jose Bastos,Inteira,2565
+355 - Siqueira/Jose Bastos,Vale Transporte,3897
+356 - Genibau/Lagoa,Estudante,387
+356 - Genibau/Lagoa,Gratuidade,68
+356 - Genibau/Lagoa,Inteira,427
+356 - Genibau/Lagoa,Vale Transporte,634
+357 - Cj Ceara/Granja Lisb,Estudante,501
+357 - Cj Ceara/Granja Lisb,Gratuidade,137
+357 - Cj Ceara/Granja Lisb,Inteira,533
+357 - Cj Ceara/Granja Lisb,Vale Transporte,722
+359 - Santa Tereza,Estudante,344
+359 - Santa Tereza,Gratuidade,178
+359 - Santa Tereza,Inteira,424
+359 - Santa Tereza,Vale Transporte,639
+35 - Corujao/Av. Paranjan,Estudante,6
+35 - Corujao/Av. Paranjan,Inteira,26
+35 - Corujao/Av. Paranjan,Vale Transporte,46
+360 - Siqueira/Joao Pessoa,Estudante,1657
+360 - Siqueira/Joao Pessoa,Gratuidade,445
+360 - Siqueira/Joao Pessoa,Inteira,1483
+360 - Siqueira/Joao Pessoa,Vale Transporte,2362
+361 - Siqueira/OP/Parangab,Estudante,311
+361 - Siqueira/OP/Parangab,Gratuidade,146
+361 - Siqueira/OP/Parangab,Inteira,397
+361 - Siqueira/OP/Parangab,Vale Transporte,444
+362 - Siqueira/V.M.S./PARA,Estudante,724
+362 - Siqueira/V.M.S./PARA,Gratuidade,334
+362 - Siqueira/V.M.S./PARA,Inteira,914
+362 - Siqueira/V.M.S./PARA,Vale Transporte,1203
+363 - Vila Manoel Satiro/C,Estudante,128
+363 - Vila Manoel Satiro/C,Gratuidade,43
+363 - Vila Manoel Satiro/C,Inteira,97
+363 - Vila Manoel Satiro/C,Vale Transporte,305
+364 - LAGOA/RIOMAR/JOSE JA,Estudante,219
+364 - LAGOA/RIOMAR/JOSE JA,Gratuidade,64
+364 - LAGOA/RIOMAR/JOSE JA,Inteira,185
+364 - LAGOA/RIOMAR/JOSE JA,Vale Transporte,341
+365 - Bela Vista/Viriato R,Estudante,226
+365 - Bela Vista/Viriato R,Gratuidade,96
+365 - Bela Vista/Viriato R,Inteira,212
+365 - Bela Vista/Viriato R,Vale Transporte,585
+366 - Bom Jardim 2,Estudante,472
+366 - Bom Jardim 2,Gratuidade,145
+366 - Bom Jardim 2,Inteira,797
+366 - Bom Jardim 2,Vale Transporte,1162
+367 - Cj Ceara/Bom Jardim,Estudante,244
+367 - Cj Ceara/Bom Jardim,Gratuidade,66
+367 - Cj Ceara/Bom Jardim,Inteira,273
+367 - Cj Ceara/Bom Jardim,Vale Transporte,384
+368 - CJ CEARA/BOM JARDIM/,Estudante,75
+368 - CJ CEARA/BOM JARDIM/,Gratuidade,28
+368 - CJ CEARA/BOM JARDIM/,Inteira,84
+368 - CJ CEARA/BOM JARDIM/,Vale Transporte,90
+369 - Parque Presidente Va,Estudante,619
+369 - Parque Presidente Va,Gratuidade,218
+369 - Parque Presidente Va,Inteira,775
+369 - Parque Presidente Va,Vale Transporte,1033
+371 - Parangaba/Centro/Exp,Estudante,636
+371 - Parangaba/Centro/Exp,Gratuidade,259
+371 - Parangaba/Centro/Exp,Inteira,847
+371 - Parangaba/Centro/Exp,Vale Transporte,1061
+372 - ARACAPE/PARANGABA 1,Estudante,768
+372 - ARACAPE/PARANGABA 1,Gratuidade,195
+372 - ARACAPE/PARANGABA 1,Inteira,1123
+372 - ARACAPE/PARANGABA 1,Vale Transporte,1524
+374 - ARACAPE/CENTRO,Estudante,261
+374 - ARACAPE/CENTRO,Gratuidade,42
+374 - ARACAPE/CENTRO,Inteira,201
+374 - ARACAPE/CENTRO,Vale Transporte,647
+375 - Aracape/Parangaba,Estudante,594
+375 - Aracape/Parangaba,Gratuidade,162
+375 - Aracape/Parangaba,Inteira,865
+375 - Aracape/Parangaba,Vale Transporte,1256
+376 - Parque Santa Cecilia,Estudante,520
+376 - Parque Santa Cecilia,Gratuidade,209
+376 - Parque Santa Cecilia,Inteira,743
+376 - Parque Santa Cecilia,Vale Transporte,937
+377 - Cj Jose Walter/Paran,Estudante,871
+377 - Cj Jose Walter/Paran,Gratuidade,207
+377 - Cj Jose Walter/Paran,Inteira,898
+377 - Cj Jose Walter/Paran,Vale Transporte,1428
+378 - Canindezinho/Urucutu,Estudante,197
+378 - Canindezinho/Urucutu,Gratuidade,32
+378 - Canindezinho/Urucutu,Inteira,293
+378 - Canindezinho/Urucutu,Vale Transporte,335
+379 - Cj Esperanca/Paranga,Estudante,980
+379 - Cj Esperanca/Paranga,Gratuidade,196
+379 - Cj Esperanca/Paranga,Inteira,965
+379 - Cj Esperanca/Paranga,Vale Transporte,1534
+37 - Corujao/Cj Ceara/Ald,Estudante,4
+37 - Corujao/Cj Ceara/Ald,Inteira,17
+37 - Corujao/Cj Ceara/Ald,Vale Transporte,23
+381 - Parque Santa Maria/S,Estudante,555
+381 - Parque Santa Maria/S,Gratuidade,119
+381 - Parque Santa Maria/S,Inteira,634
+381 - Parque Santa Maria/S,Vale Transporte,832
+382 - Parque Jerusalem,Estudante,285
+382 - Parque Jerusalem,Gratuidade,106
+382 - Parque Jerusalem,Inteira,455
+382 - Parque Jerusalem,Vale Transporte,644
+383 - PQ. SAO JOAO / SIQUE,Estudante,336
+383 - PQ. SAO JOAO / SIQUE,Gratuidade,108
+383 - PQ. SAO JOAO / SIQUE,Inteira,495
+383 - PQ. SAO JOAO / SIQUE,Vale Transporte,656
+384 - Parque Santana,Estudante,212
+384 - Parque Santana,Gratuidade,98
+384 - Parque Santana,Inteira,325
+384 - Parque Santana,Vale Transporte,607
+386 - Planalto Granja Lisb,Estudante,371
+386 - Planalto Granja Lisb,Gratuidade,107
+386 - Planalto Granja Lisb,Inteira,529
+386 - Planalto Granja Lisb,Vale Transporte,739
+387 - Jardim Jatoba/Centro,Estudante,688
+387 - Jardim Jatoba/Centro,Gratuidade,189
+387 - Jardim Jatoba/Centro,Inteira,1150
+387 - Jardim Jatoba/Centro,Vale Transporte,1472
+388 - Conj. Tatu Munde,Estudante,264
+388 - Conj. Tatu Munde,Gratuidade,69
+388 - Conj. Tatu Munde,Inteira,403
+388 - Conj. Tatu Munde,Vale Transporte,477
+389 - Jovita Feitosa,Estudante,1225
+389 - Jovita Feitosa,Gratuidade,278
+389 - Jovita Feitosa,Inteira,865
+389 - Jovita Feitosa,Vale Transporte,1067
+38 - Parangaba/Papicu,Estudante,3207
+38 - Parangaba/Papicu,Gratuidade,242
+38 - Parangaba/Papicu,Inteira,2752
+38 - Parangaba/Papicu,Vale Transporte,4708
+390 - Parangaba/Joao Pesso,Estudante,1065
+390 - Parangaba/Joao Pesso,Gratuidade,241
+390 - Parangaba/Joao Pesso,Inteira,855
+390 - Parangaba/Joao Pesso,Vale Transporte,1408
+391 - Passare / Parangaba,Estudante,723
+391 - Passare / Parangaba,Gratuidade,145
+391 - Passare / Parangaba,Inteira,581
+391 - Passare / Parangaba,Vale Transporte,1037
+392 - NOVA ESPERANCA/SIQUE,Estudante,262
+392 - NOVA ESPERANCA/SIQUE,Gratuidade,62
+392 - NOVA ESPERANCA/SIQUE,Inteira,442
+392 - NOVA ESPERANCA/SIQUE,Vale Transporte,555
+393 - MIGUEL ARRAIS/SIQUEI,Estudante,349
+393 - MIGUEL ARRAIS/SIQUEI,Gratuidade,124
+393 - MIGUEL ARRAIS/SIQUEI,Inteira,414
+393 - MIGUEL ARRAIS/SIQUEI,Vale Transporte,486
+394 - Parque Universitario,Estudante,165
+394 - Parque Universitario,Gratuidade,38
+394 - Parque Universitario,Inteira,191
+394 - Parque Universitario,Vale Transporte,330
+395 - Sitio Corrego/Parang,Estudante,260
+395 - Sitio Corrego/Parang,Gratuidade,38
+395 - Sitio Corrego/Parang,Inteira,249
+395 - Sitio Corrego/Parang,Vale Transporte,416
+397 - Jardim Jatoba 2,Estudante,382
+397 - Jardim Jatoba 2,Gratuidade,119
+397 - Jardim Jatoba 2,Inteira,606
+397 - Jardim Jatoba 2,Vale Transporte,730
+398 - CORUJAO/JOSE BASTOS/,Inteira,3
+398 - CORUJAO/JOSE BASTOS/,Vale Transporte,4
+399 - CIDADE JARDIM/PARANG,Estudante,243
+399 - CIDADE JARDIM/PARANG,Gratuidade,79
+399 - CIDADE JARDIM/PARANG,Inteira,288
+399 - CIDADE JARDIM/PARANG,Vale Transporte,380
+39 - Corujao/Av. Bezerra,Estudante,4
+39 - Corujao/Av. Bezerra,Inteira,13
+39 - Corujao/Av. Bezerra,Vale Transporte,7
+3 - TERMINAL PARANGABA,Estudante,3559
+3 - TERMINAL PARANGABA,Gratuidade,519
+3 - TERMINAL PARANGABA,Inteira,2469
+3 - TERMINAL PARANGABA,Vale Transporte,9233
+401 - Montese/Parangaba,Estudante,1367
+401 - Montese/Parangaba,Gratuidade,465
+401 - Montese/Parangaba,Inteira,1254
+401 - Montese/Parangaba,Vale Transporte,1646
+403 - Parangaba/Centro/Exp,Estudante,710
+403 - Parangaba/Centro/Exp,Gratuidade,194
+403 - Parangaba/Centro/Exp,Inteira,622
+403 - Parangaba/Centro/Exp,Vale Transporte,754
+404 - Aeroporto/Benfica/Ro,Estudante,190
+404 - Aeroporto/Benfica/Ro,Gratuidade,60
+404 - Aeroporto/Benfica/Ro,Inteira,229
+404 - Aeroporto/Benfica/Ro,Vale Transporte,357
+405 - Pq.Dois Irmaos/Exped,Estudante,1492
+405 - Pq.Dois Irmaos/Exped,Gratuidade,482
+405 - Pq.Dois Irmaos/Exped,Inteira,1329
+405 - Pq.Dois Irmaos/Exped,Vale Transporte,1670
+406 - Plan. Ayrton S/Exped,Estudante,1715
+406 - Plan. Ayrton S/Exped,Gratuidade,459
+406 - Plan. Ayrton S/Exped,Inteira,1728
+406 - Plan. Ayrton S/Exped,Vale Transporte,3057
+407 - Cj Pref. Jose Walter,Estudante,1986
+407 - Cj Pref. Jose Walter,Gratuidade,406
+407 - Cj Pref. Jose Walter,Inteira,1319
+407 - Cj Pref. Jose Walter,Vale Transporte,2108
+411 - Montese/Lagoa,Estudante,767
+411 - Montese/Lagoa,Gratuidade,398
+411 - Montese/Lagoa,Inteira,837
+411 - Montese/Lagoa,Vale Transporte,1069
+41 - Parangaba / Olivei,Estudante,3903
+41 - Parangaba / Olivei,Gratuidade,538
+41 - Parangaba / Olivei,Inteira,4055
+41 - Parangaba / Olivei,Vale Transporte,6830
+42 - Ant. Bez./Fco sa/Pap,Estudante,2692
+42 - Ant. Bez./Fco sa/Pap,Gratuidade,783
+42 - Ant. Bez./Fco sa/Pap,Inteira,4037
+42 - Ant. Bez./Fco sa/Pap,Vale Transporte,6746
+43 - Cj Ceara/Lagoa/F.Tav,Estudante,1052
+43 - Cj Ceara/Lagoa/F.Tav,Gratuidade,282
+43 - Cj Ceara/Lagoa/F.Tav,Inteira,1143
+43 - Cj Ceara/Lagoa/F.Tav,Vale Transporte,1558
+44 - Parangaba/Papicu/Mon,Estudante,1894
+44 - Parangaba/Papicu/Mon,Gratuidade,584
+44 - Parangaba/Papicu/Mon,Inteira,2606
+44 - Parangaba/Papicu/Mon,Vale Transporte,5405
+456 - Planalto Ayrton Senn,Estudante,1214
+456 - Planalto Ayrton Senn,Gratuidade,357
+456 - Planalto Ayrton Senn,Inteira,1429
+456 - Planalto Ayrton Senn,Vale Transporte,2386
+45 - Cj Ceara/Papicu/Mont,Estudante,2687
+45 - Cj Ceara/Papicu/Mont,Gratuidade,738
+45 - Cj Ceara/Papicu/Mont,Inteira,3100
+45 - Cj Ceara/Papicu/Mont,Vale Transporte,7184
+466 - Arvoredo/Parangaba,Estudante,855
+466 - Arvoredo/Parangaba,Gratuidade,205
+466 - Arvoredo/Parangaba,Inteira,775
+466 - Arvoredo/Parangaba,Vale Transporte,1488
+46 - Corujao/Cj Ceara,Estudante,2
+46 - Corujao/Cj Ceara,Inteira,12
+46 - Corujao/Cj Ceara,Vale Transporte,27
+47 - Corujao/Jose Bastos/,Gratuidade,1
+47 - Corujao/Jose Bastos/,Vale Transporte,1
+48 - Corujao/Parangaba/Pa,Estudante,2
+48 - Corujao/Parangaba/Pa,Inteira,8
+48 - Corujao/Parangaba/Pa,Vale Transporte,25
+4 - MESSEJANA/PAPICU/CAM,Estudante,539
+4 - MESSEJANA/PAPICU/CAM,Gratuidade,133
+4 - MESSEJANA/PAPICU/CAM,Inteira,648
+4 - MESSEJANA/PAPICU/CAM,Vale Transporte,838
+501 - Bairro de Fatima,Estudante,183
+501 - Bairro de Fatima,Gratuidade,212
+501 - Bairro de Fatima,Inteira,252
+501 - Bairro de Fatima,Vale Transporte,338
+502 - Vila Uniao,Estudante,1184
+502 - Vila Uniao,Gratuidade,411
+502 - Vila Uniao,Inteira,965
+502 - Vila Uniao,Vale Transporte,1799
+503 - Av. 13 de Maio 1,Estudante,143
+503 - Av. 13 de Maio 1,Gratuidade,88
+503 - Av. 13 de Maio 1,Inteira,138
+503 - Av. 13 de Maio 1,Vale Transporte,213
+504 - Av. 13 de Maio 2,Estudante,204
+504 - Av. 13 de Maio 2,Gratuidade,88
+504 - Av. 13 de Maio 2,Inteira,161
+504 - Av. 13 de Maio 2,Vale Transporte,248
+50 - SIQ/PAP/WS.,Estudante,2256
+50 - SIQ/PAP/WS.,Gratuidade,515
+50 - SIQ/PAP/WS.,Inteira,3259
+50 - SIQ/PAP/WS.,Vale Transporte,5368
+513 - PARANGABA/UECE/LUCIA,Estudante,869
+513 - PARANGABA/UECE/LUCIA,Gratuidade,49
+513 - PARANGABA/UECE/LUCIA,Inteira,195
+513 - PARANGABA/UECE/LUCIA,Vale Transporte,470
+51 - Grande Circular 1,Estudante,1623
+51 - Grande Circular 1,Gratuidade,386
+51 - Grande Circular 1,Inteira,2891
+51 - Grande Circular 1,Vale Transporte,4333
+52 - Grande Circular 2,Estudante,1596
+52 - Grande Circular 2,Gratuidade,373
+52 - Grande Circular 2,Inteira,2678
+52 - Grande Circular 2,Vale Transporte,4022
+53 - MES/PAP / WS,Estudante,1053
+53 - MES/PAP / WS,Gratuidade,194
+53 - MES/PAP / WS,Inteira,1498
+53 - MES/PAP / WS,Vale Transporte,2308
+54 - Corujao/Praia do Fut,Estudante,4
+54 - Corujao/Praia do Fut,Inteira,28
+54 - Corujao/Praia do Fut,Vale Transporte,24
+55 - Corujao/Grande Circu,Estudante,21
+55 - Corujao/Grande Circu,Gratuidade,6
+55 - Corujao/Grande Circu,Inteira,115
+55 - Corujao/Grande Circu,Vale Transporte,169
+56 - Corujao/Grande Circu,Estudante,17
+56 - Corujao/Grande Circu,Gratuidade,4
+56 - Corujao/Grande Circu,Inteira,83
+56 - Corujao/Grande Circu,Vale Transporte,89
+57 - Corujao/Jardim Irace,Estudante,6
+57 - Corujao/Jardim Irace,Inteira,7
+57 - Corujao/Jardim Irace,Vale Transporte,15
+58 - Corujao/Jd.Guanabara,Estudante,2
+58 - Corujao/Jd.Guanabara,Inteira,4
+58 - Corujao/Jd.Guanabara,Vale Transporte,13
+59 - Corujao/Av. Sargento,Inteira,16
+59 - Corujao/Av. Sargento,Vale Transporte,7
+5 - TERMINAL LAGOA,Estudante,520
+5 - TERMINAL LAGOA,Gratuidade,105
+5 - TERMINAL LAGOA,Inteira,752
+5 - TERMINAL LAGOA,Vale Transporte,890
+600 - Messejana/Frei Ciril,Estudante,1001
+600 - Messejana/Frei Ciril,Gratuidade,84
+600 - Messejana/Frei Ciril,Inteira,1203
+600 - Messejana/Frei Ciril,Vale Transporte,2455
+601 - Aerolandia 1,Estudante,603
+601 - Aerolandia 1,Gratuidade,438
+601 - Aerolandia 1,Inteira,495
+601 - Aerolandia 1,Vale Transporte,1465
+602 - Pq.Pio XII/Ana Gonca,Estudante,475
+602 - Pq.Pio XII/Ana Gonca,Gratuidade,334
+602 - Pq.Pio XII/Ana Gonca,Inteira,440
+602 - Pq.Pio XII/Ana Gonca,Vale Transporte,1183
+603 - Castelao/Visconde do,Estudante,1238
+603 - Castelao/Visconde do,Gratuidade,288
+603 - Castelao/Visconde do,Inteira,1191
+603 - Castelao/Visconde do,Vale Transporte,2729
+604 - Dias Macedo/Cent,Estudante,447
+604 - Dias Macedo/Cent,Gratuidade,205
+604 - Dias Macedo/Cent,Inteira,483
+604 - Dias Macedo/Cent,Vale Transporte,1043
+605 - Cj Pref. Jose Walter,Estudante,1046
+605 - Cj Pref. Jose Walter,Gratuidade,211
+605 - Cj Pref. Jose Walter,Inteira,884
+605 - Cj Pref. Jose Walter,Vale Transporte,1897
+606 - Cj Pref. Jose Walter,Estudante,960
+606 - Cj Pref. Jose Walter,Gratuidade,249
+606 - Cj Pref. Jose Walter,Inteira,854
+606 - Cj Pref. Jose Walter,Vale Transporte,1883
+609 - Cidade Func/Sitio Sa,Estudante,723
+609 - Cidade Func/Sitio Sa,Gratuidade,208
+609 - Cidade Func/Sitio Sa,Inteira,1023
+609 - Cidade Func/Sitio Sa,Vale Transporte,1880
+60 - PARQUEL/PARANGABA,Estudante,1444
+60 - PARQUEL/PARANGABA,Gratuidade,456
+60 - PARQUEL/PARANGABA,Inteira,1090
+60 - PARQUEL/PARANGABA,Vale Transporte,1537
+610 - Cidade Func/Cj Alvor,Estudante,727
+610 - Cidade Func/Cj Alvor,Gratuidade,170
+610 - Cidade Func/Cj Alvor,Inteira,744
+610 - Cidade Func/Cj Alvor,Vale Transporte,1316
+611 - Cidade Func/Cofeco/L,Estudante,283
+611 - Cidade Func/Cofeco/L,Gratuidade,85
+611 - Cidade Func/Cofeco/L,Inteira,302
+611 - Cidade Func/Cofeco/L,Vale Transporte,489
+612 - Cj Tancredo Neves/No,Estudante,530
+612 - Cj Tancredo Neves/No,Gratuidade,278
+612 - Cj Tancredo Neves/No,Inteira,666
+612 - Cj Tancredo Neves/No,Vale Transporte,1583
+613 - Barroso/Jardim Viole,Estudante,712
+613 - Barroso/Jardim Viole,Gratuidade,121
+613 - Barroso/Jardim Viole,Inteira,815
+613 - Barroso/Jardim Viole,Vale Transporte,1293
+615 - Corujao/Paupina/Lago,Inteira,6
+615 - Corujao/Paupina/Lago,Vale Transporte,12
+616 - Lagoa Redonda 1,Estudante,464
+616 - Lagoa Redonda 1,Gratuidade,143
+616 - Lagoa Redonda 1,Inteira,597
+616 - Lagoa Redonda 1,Vale Transporte,726
+617 - Lagoa Redonda/Abreul,Estudante,304
+617 - Lagoa Redonda/Abreul,Gratuidade,87
+617 - Lagoa Redonda/Abreul,Inteira,549
+617 - Lagoa Redonda/Abreul,Vale Transporte,529
+618 - Parque Santa Rosa/Me,Estudante,584
+618 - Parque Santa Rosa/Me,Gratuidade,116
+618 - Parque Santa Rosa/Me,Inteira,770
+618 - Parque Santa Rosa/Me,Vale Transporte,1103
+619 - Paupina,Estudante,254
+619 - Paupina,Gratuidade,62
+619 - Paupina,Inteira,208
+619 - Paupina,Vale Transporte,287
+61 - LINHA CENTRAL,Estudante,32
+61 - LINHA CENTRAL,Gratuidade,36
+61 - LINHA CENTRAL,Vale Transporte,157
+620 - Corujao/Pedras,Estudante,5
+620 - Corujao/Pedras,Gratuidade,2
+620 - Corujao/Pedras,Inteira,10
+620 - Corujao/Pedras,Vale Transporte,29
+621 - Pedras 1,Estudante,562
+621 - Pedras 1,Gratuidade,116
+621 - Pedras 1,Inteira,794
+621 - Pedras 1,Vale Transporte,1300
+622 - Pedras 2,Estudante,591
+622 - Pedras 2,Gratuidade,81
+622 - Pedras 2,Inteira,662
+622 - Pedras 2,Vale Transporte,1026
+625 - Parque Manibura/Borg,Estudante,427
+625 - Parque Manibura/Borg,Gratuidade,154
+625 - Parque Manibura/Borg,Inteira,434
+625 - Parque Manibura/Borg,Vale Transporte,569
+626 - Lagoa Redonda 2,Estudante,603
+626 - Lagoa Redonda 2,Gratuidade,133
+626 - Lagoa Redonda 2,Inteira,736
+626 - Lagoa Redonda 2,Vale Transporte,836
+627 - LAGOA REDONDA/PAPICU,Estudante,649
+627 - LAGOA REDONDA/PAPICU,Gratuidade,125
+627 - LAGOA REDONDA/PAPICU,Inteira,817
+627 - LAGOA REDONDA/PAPICU,Vale Transporte,1496
+628 - Sitio Sao Joao/Parqu,Estudante,543
+628 - Sitio Sao Joao/Parqu,Gratuidade,91
+628 - Sitio Sao Joao/Parqu,Inteira,472
+628 - Sitio Sao Joao/Parqu,Vale Transporte,723
+629 - Cj Palmeiras/Perimet,Estudante,816
+629 - Cj Palmeiras/Perimet,Gratuidade,195
+629 - Cj Palmeiras/Perimet,Inteira,986
+629 - Cj Palmeiras/Perimet,Vale Transporte,1557
+62 - Corujao/Cj Esperanca,Estudante,2
+62 - Corujao/Cj Esperanca,Gratuidade,3
+62 - Corujao/Cj Esperanca,Inteira,15
+62 - Corujao/Cj Esperanca,Vale Transporte,14
+630 - Itamaraty/Elizabeth,Estudante,583
+630 - Itamaraty/Elizabeth,Gratuidade,117
+630 - Itamaraty/Elizabeth,Inteira,533
+630 - Itamaraty/Elizabeth,Vale Transporte,743
+631 - Carlos Albuquerque,Estudante,154
+631 - Carlos Albuquerque,Gratuidade,29
+631 - Carlos Albuquerque,Inteira,284
+631 - Carlos Albuquerque,Vale Transporte,709
+632 - Alto Alegre/Messejan,Estudante,921
+632 - Alto Alegre/Messejan,Gratuidade,222
+632 - Alto Alegre/Messejan,Inteira,759
+632 - Alto Alegre/Messejan,Vale Transporte,1059
+633 - PASSARE / CEN,Estudante,427
+633 - PASSARE / CEN,Gratuidade,97
+633 - PASSARE / CEN,Inteira,324
+633 - PASSARE / CEN,Vale Transporte,538
+634 - LAGOA REDONDA/ABREUL,Estudante,102
+634 - LAGOA REDONDA/ABREUL,Gratuidade,29
+634 - LAGOA REDONDA/ABREUL,Inteira,201
+634 - LAGOA REDONDA/ABREUL,Vale Transporte,202
+635 - Cj Tamandare,Estudante,292
+635 - Cj Tamandare,Gratuidade,98
+635 - Cj Tamandare,Inteira,286
+635 - Cj Tamandare,Vale Transporte,532
+636 - Cj Palmeiras/Parque,Estudante,743
+636 - Cj Palmeiras/Parque,Gratuidade,167
+636 - Cj Palmeiras/Parque,Inteira,471
+636 - Cj Palmeiras/Parque,Vale Transporte,841
+637 - Conj. Maria Tomasia/,Estudante,387
+637 - Conj. Maria Tomasia/,Gratuidade,58
+637 - Conj. Maria Tomasia/,Inteira,348
+637 - Conj. Maria Tomasia/,Vale Transporte,447
+639 - PLANALTO COACU/MESSE,Estudante,289
+639 - PLANALTO COACU/MESSE,Gratuidade,64
+639 - PLANALTO COACU/MESSE,Inteira,282
+639 - PLANALTO COACU/MESSE,Vale Transporte,374
+63 - Corujao/Bom Jardim,Estudante,2
+63 - Corujao/Bom Jardim,Inteira,15
+63 - Corujao/Bom Jardim,Vale Transporte,26
+640 - Alvorada / Messejana,Estudante,489
+640 - Alvorada / Messejana,Gratuidade,131
+640 - Alvorada / Messejana,Inteira,780
+640 - Alvorada / Messejana,Vale Transporte,818
+641 - Guajeru I,Estudante,282
+641 - Guajeru I,Gratuidade,73
+641 - Guajeru I,Inteira,256
+641 - Guajeru I,Vale Transporte,418
+642 - Guajeru 2,Estudante,267
+642 - Guajeru 2,Gratuidade,143
+642 - Guajeru 2,Inteira,362
+642 - Guajeru 2,Vale Transporte,512
+643 - Barroso Circular,Estudante,389
+643 - Barroso Circular,Gratuidade,62
+643 - Barroso Circular,Inteira,389
+643 - Barroso Circular,Vale Transporte,571
+644 - LAGOA REDONDA/ABREUL,Estudante,15
+644 - LAGOA REDONDA/ABREUL,Gratuidade,1
+644 - LAGOA REDONDA/ABREUL,Inteira,10
+644 - LAGOA REDONDA/ABREUL,Vale Transporte,24
+645 - Cj Joao Paulo II,Estudante,194
+645 - Cj Joao Paulo II,Gratuidade,77
+645 - Cj Joao Paulo II,Inteira,274
+645 - Cj Joao Paulo II,Vale Transporte,401
+646 - Cj Sao Cristovao,Estudante,272
+646 - Cj Sao Cristovao,Gratuidade,103
+646 - Cj Sao Cristovao,Inteira,272
+646 - Cj Sao Cristovao,Vale Transporte,434
+648 - CIDADE NOBRE/MESSEJA,Estudante,183
+648 - CIDADE NOBRE/MESSEJA,Gratuidade,31
+648 - CIDADE NOBRE/MESSEJA,Inteira,188
+648 - CIDADE NOBRE/MESSEJA,Vale Transporte,373
+64 - Corujao/Aeroporto/Be,Gratuidade,1
+64 - Corujao/Aeroporto/Be,Inteira,3
+64 - Corujao/Aeroporto/Be,Vale Transporte,1
+650 - Messejana/Centro/Br,Estudante,1193
+650 - Messejana/Centro/Br,Gratuidade,99
+650 - Messejana/Centro/Br,Inteira,1260
+650 - Messejana/Centro/Br,Vale Transporte,2831
+653 - SANTA FE 02,Estudante,349
+653 - SANTA FE 02,Gratuidade,85
+653 - SANTA FE 02,Inteira,363
+653 - SANTA FE 02,Vale Transporte,524
+655 - Passare/Messejana,Estudante,389
+655 - Passare/Messejana,Gratuidade,107
+655 - Passare/Messejana,Inteira,543
+655 - Passare/Messejana,Vale Transporte,720
+656 - Messejana/Sabiaguaba,Estudante,208
+656 - Messejana/Sabiaguaba,Gratuidade,36
+656 - Messejana/Sabiaguaba,Inteira,206
+656 - Messejana/Sabiaguaba,Vale Transporte,288
+657 - MESSEJANA/SABIAGUABA,Estudante,305
+657 - MESSEJANA/SABIAGUABA,Gratuidade,101
+657 - MESSEJANA/SABIAGUABA,Inteira,389
+657 - MESSEJANA/SABIAGUABA,Vale Transporte,555
+65 - Corujao/Barroso/Jard,Estudante,1
+65 - Corujao/Barroso/Jard,Gratuidade,1
+65 - Corujao/Barroso/Jard,Inteira,4
+65 - Corujao/Barroso/Jard,Vale Transporte,12
+660 - Conjunto palmeiras/C,Estudante,2078
+660 - Conjunto palmeiras/C,Gratuidade,675
+660 - Conjunto palmeiras/C,Inteira,2530
+660 - Conjunto palmeiras/C,Vale Transporte,4938
+663 - Gereberaba/ Messejan,Estudante,58
+663 - Gereberaba/ Messejan,Gratuidade,14
+663 - Gereberaba/ Messejan,Inteira,97
+663 - Gereberaba/ Messejan,Vale Transporte,163
+665 - Corujao/Messejana/Ce,Gratuidade,1
+665 - Corujao/Messejana/Ce,Inteira,7
+665 - Corujao/Messejana/Ce,Vale Transporte,13
+666 - Jardim Castelao,Estudante,904
+666 - Jardim Castelao,Gratuidade,234
+666 - Jardim Castelao,Inteira,657
+666 - Jardim Castelao,Vale Transporte,1117
+66 - Parangaba/Papicu/Aer,Estudante,2401
+66 - Parangaba/Papicu/Aer,Gratuidade,366
+66 - Parangaba/Papicu/Aer,Inteira,1725
+66 - Parangaba/Papicu/Aer,Vale Transporte,3344
+670 - Sitio Sao Joao/Centr,Estudante,727
+670 - Sitio Sao Joao/Centr,Gratuidade,268
+670 - Sitio Sao Joao/Centr,Inteira,862
+670 - Sitio Sao Joao/Centr,Vale Transporte,1936
+676 - Cj Curio,Estudante,706
+676 - Cj Curio,Gratuidade,154
+676 - Cj Curio,Inteira,726
+676 - Cj Curio,Vale Transporte,1027
+67 - LAGOA / ALBERT SABIN,Estudante,171
+67 - LAGOA / ALBERT SABIN,Gratuidade,54
+67 - LAGOA / ALBERT SABIN,Inteira,191
+67 - LAGOA / ALBERT SABIN,Vale Transporte,468
+680 - 680-JOSE WALTER / PA,Estudante,1128
+680 - 680-JOSE WALTER / PA,Gratuidade,200
+680 - 680-JOSE WALTER / PA,Inteira,1227
+680 - 680-JOSE WALTER / PA,Vale Transporte,2897
+681 - ALAMEDA DAS PALMEIRA,Estudante,315
+681 - ALAMEDA DAS PALMEIRA,Gratuidade,69
+681 - ALAMEDA DAS PALMEIRA,Inteira,423
+681 - ALAMEDA DAS PALMEIRA,Vale Transporte,539
+685 - MESSEJANA/RODOVIARIA,Estudante,529
+685 - MESSEJANA/RODOVIARIA,Gratuidade,142
+685 - MESSEJANA/RODOVIARIA,Inteira,728
+685 - MESSEJANA/RODOVIARIA,Vale Transporte,1341
+686 - Cj Sao Bernardo,Estudante,266
+686 - Cj Sao Bernardo,Gratuidade,89
+686 - Cj Sao Bernardo,Inteira,287
+686 - Cj Sao Bernardo,Vale Transporte,435
+68 - Messej/Pap/Camb,Estudante,256
+68 - Messej/Pap/Camb,Gratuidade,34
+68 - Messej/Pap/Camb,Inteira,248
+68 - Messej/Pap/Camb,Vale Transporte,467
+690 - Parque Santa Maria/M,Estudante,232
+690 - Parque Santa Maria/M,Gratuidade,31
+690 - Parque Santa Maria/M,Inteira,182
+690 - Parque Santa Maria/M,Vale Transporte,230
+696 - SIT CURIO/MESS,Estudante,499
+696 - SIT CURIO/MESS,Gratuidade,146
+696 - SIT CURIO/MESS,Inteira,546
+696 - SIT CURIO/MESS,Vale Transporte,772
+69 - Lagoa/Papicu/Via Exp,Estudante,570
+69 - Lagoa/Papicu/Via Exp,Gratuidade,205
+69 - Lagoa/Papicu/Via Exp,Inteira,691
+69 - Lagoa/Papicu/Via Exp,Vale Transporte,1764
+6 - TERMINAL MESSEJANA,Estudante,1655
+6 - TERMINAL MESSEJANA,Gratuidade,195
+6 - TERMINAL MESSEJANA,Inteira,2212
+6 - TERMINAL MESSEJANA,Vale Transporte,2356
+701 - Parque Americano,Estudante,255
+701 - Parque Americano,Gratuidade,242
+701 - Parque Americano,Inteira,289
+701 - Parque Americano,Vale Transporte,756
+702 - Av. Antonio Sales/Di,Estudante,249
+702 - Av. Antonio Sales/Di,Gratuidade,192
+702 - Av. Antonio Sales/Di,Inteira,328
+702 - Av. Antonio Sales/Di,Vale Transporte,663
+703 - PAUPINA/PICI,Estudante,3630
+703 - PAUPINA/PICI,Gratuidade,272
+703 - PAUPINA/PICI,Inteira,2284
+703 - PAUPINA/PICI,Vale Transporte,3726
+706 - BARRA DO CEARA/ANTON,Estudante,280
+706 - BARRA DO CEARA/ANTON,Gratuidade,38
+706 - BARRA DO CEARA/ANTON,Inteira,316
+706 - BARRA DO CEARA/ANTON,Vale Transporte,613
+709 - CONJ. CEARA/CENTRO,Estudante,1150
+709 - CONJ. CEARA/CENTRO,Gratuidade,200
+709 - CONJ. CEARA/CENTRO,Inteira,1412
+709 - CONJ. CEARA/CENTRO,Vale Transporte,1738
+70 - Cuca Barra/Parangaba,Estudante,2313
+70 - Cuca Barra/Parangaba,Gratuidade,457
+70 - Cuca Barra/Parangaba,Inteira,1426
+70 - Cuca Barra/Parangaba,Vale Transporte,2530
+710 - CONJ. CEARA/ GRANJA,Estudante,793
+710 - CONJ. CEARA/ GRANJA,Gratuidade,102
+710 - CONJ. CEARA/ GRANJA,Inteira,1079
+710 - CONJ. CEARA/ GRANJA,Vale Transporte,1326
+711 - BARRA DO CEARA/ CAIS,Estudante,720
+711 - BARRA DO CEARA/ CAIS,Gratuidade,223
+711 - BARRA DO CEARA/ CAIS,Inteira,1391
+711 - BARRA DO CEARA/ CAIS,Vale Transporte,2769
+712 - CONJ. PALMEIRAS/ HOS,Estudante,2557
+712 - CONJ. PALMEIRAS/ HOS,Gratuidade,389
+712 - CONJ. PALMEIRAS/ HOS,Inteira,3485
+712 - CONJ. PALMEIRAS/ HOS,Vale Transporte,5232
+713 - SANTOS DUMONT/ PERIM,Estudante,1132
+713 - SANTOS DUMONT/ PERIM,Gratuidade,122
+713 - SANTOS DUMONT/ PERIM,Inteira,1462
+713 - SANTOS DUMONT/ PERIM,Vale Transporte,2585
+71 - Antonio Bezerra/Mucu,Estudante,839
+71 - Antonio Bezerra/Mucu,Gratuidade,247
+71 - Antonio Bezerra/Mucu,Inteira,1372
+71 - Antonio Bezerra/Mucu,Vale Transporte,1738
+725 - PARQUE ST MARIA/ LIC,Estudante,743
+725 - PARQUE ST MARIA/ LIC,Gratuidade,121
+725 - PARQUE ST MARIA/ LIC,Inteira,827
+725 - PARQUE ST MARIA/ LIC,Vale Transporte,1509
+728 - JOSE WALTER/ CENTRO,Estudante,365
+728 - JOSE WALTER/ CENTRO,Gratuidade,49
+728 - JOSE WALTER/ CENTRO,Inteira,320
+728 - JOSE WALTER/ CENTRO,Vale Transporte,483
+72 - Antonio Bezerra / Pa,Estudante,1146
+72 - Antonio Bezerra / Pa,Gratuidade,197
+72 - Antonio Bezerra / Pa,Inteira,1120
+72 - Antonio Bezerra / Pa,Vale Transporte,1745
+73 - SIQUEIRA/P.IRACEMA,Estudante,1539
+73 - SIQUEIRA/P.IRACEMA,Gratuidade,99
+73 - SIQUEIRA/P.IRACEMA,Inteira,1930
+73 - SIQUEIRA/P.IRACEMA,Vale Transporte,4559
+74 - Antonio Bezerra/Unif,Estudante,4287
+74 - Antonio Bezerra/Unif,Gratuidade,755
+74 - Antonio Bezerra/Unif,Inteira,2987
+74 - Antonio Bezerra/Unif,Vale Transporte,5804
+752 - CACA E PESCA/ CENTRO,Estudante,1072
+752 - CACA E PESCA/ CENTRO,Gratuidade,176
+752 - CACA E PESCA/ CENTRO,Inteira,1717
+752 - CACA E PESCA/ CENTRO,Vale Transporte,1985
+753 - CIDADE 2000/ SARGENT,Estudante,431
+753 - CIDADE 2000/ SARGENT,Gratuidade,112
+753 - CIDADE 2000/ SARGENT,Inteira,624
+753 - CIDADE 2000/ SARGENT,Vale Transporte,1096
+754 - GRANJA LISBOA/ GOIAB,Estudante,2061
+754 - GRANJA LISBOA/ GOIAB,Gratuidade,433
+754 - GRANJA LISBOA/ GOIAB,Inteira,1933
+754 - GRANJA LISBOA/ GOIAB,Vale Transporte,3134
+755 - CONJ. ALVORADA/ NORT,Estudante,1922
+755 - CONJ. ALVORADA/ NORT,Gratuidade,129
+755 - CONJ. ALVORADA/ NORT,Inteira,1140
+755 - CONJ. ALVORADA/ NORT,Vale Transporte,2320
+757 - VILA VELHA/ CENTRO,Estudante,2276
+757 - VILA VELHA/ CENTRO,Gratuidade,282
+757 - VILA VELHA/ CENTRO,Inteira,2504
+757 - VILA VELHA/ CENTRO,Vale Transporte,3290
+75 - Campus do Pici/Unifo,Estudante,6788
+75 - Campus do Pici/Unifo,Gratuidade,497
+75 - Campus do Pici/Unifo,Inteira,2655
+75 - Campus do Pici/Unifo,Vale Transporte,5138
+762 - Caca e Pesca/Centro/,Estudante,34
+762 - Caca e Pesca/Centro/,Gratuidade,3
+762 - Caca e Pesca/Centro/,Inteira,61
+762 - Caca e Pesca/Centro/,Vale Transporte,51
+76 - Cj Ceara/Aldeota,Estudante,2784
+76 - Cj Ceara/Aldeota,Gratuidade,644
+76 - Cj Ceara/Aldeota,Inteira,3414
+76 - Cj Ceara/Aldeota,Vale Transporte,5451
+77 - Parangaba/Mucuripe,Estudante,2537
+77 - Parangaba/Mucuripe,Gratuidade,548
+77 - Parangaba/Mucuripe,Inteira,2791
+77 - Parangaba/Mucuripe,Vale Transporte,3737
+79 - Antonio Bezerra/Naut,Estudante,1169
+79 - Antonio Bezerra/Naut,Gratuidade,337
+79 - Antonio Bezerra/Naut,Inteira,1255
+79 - Antonio Bezerra/Naut,Vale Transporte,2132
+7 - TERMINAL CEARA,Estudante,598
+7 - TERMINAL CEARA,Gratuidade,126
+7 - TERMINAL CEARA,Inteira,659
+7 - TERMINAL CEARA,Vale Transporte,1004
+804 - Aldeota,Estudante,711
+804 - Aldeota,Gratuidade,287
+804 - Aldeota,Inteira,1286
+804 - Aldeota,Vale Transporte,1922
+806 - Edson Queiroz/Papicu,Estudante,1048
+806 - Edson Queiroz/Papicu,Gratuidade,213
+806 - Edson Queiroz/Papicu,Inteira,926
+806 - Edson Queiroz/Papicu,Vale Transporte,1798
+80 - Francisco Sa/Paranga,Estudante,1986
+80 - Francisco Sa/Paranga,Gratuidade,532
+80 - Francisco Sa/Paranga,Inteira,1683
+80 - Francisco Sa/Paranga,Vale Transporte,2755
+810 - Papicu/Praia do Futu,Estudante,1179
+810 - Papicu/Praia do Futu,Gratuidade,237
+810 - Papicu/Praia do Futu,Inteira,1267
+810 - Papicu/Praia do Futu,Vale Transporte,1916
+814 - Papicu/Castelo Encan,Estudante,271
+814 - Papicu/Castelo Encan,Gratuidade,80
+814 - Papicu/Castelo Encan,Inteira,453
+814 - Papicu/Castelo Encan,Vale Transporte,914
+815 - Cidade Func/Papicu/C,Estudante,972
+815 - Cidade Func/Papicu/C,Gratuidade,285
+815 - Cidade Func/Papicu/C,Inteira,1520
+815 - Cidade Func/Papicu/C,Vale Transporte,2681
+816 - Edson Queiroz/Centro,Estudante,1575
+816 - Edson Queiroz/Centro,Gratuidade,404
+816 - Edson Queiroz/Centro,Inteira,1203
+816 - Edson Queiroz/Centro,Vale Transporte,2813
+81 - Cj Ceara/Antonio Bez,Estudante,395
+81 - Cj Ceara/Antonio Bez,Gratuidade,164
+81 - Cj Ceara/Antonio Bez,Inteira,611
+81 - Cj Ceara/Antonio Bez,Vale Transporte,897
+820 - Papicu/Cj Alvorada,Estudante,1107
+820 - Papicu/Cj Alvorada,Gratuidade,213
+820 - Papicu/Cj Alvorada,Inteira,1138
+820 - Papicu/Cj Alvorada,Vale Transporte,2061
+825 - Cidade Func/Papicu/J,Estudante,426
+825 - Cidade Func/Papicu/J,Gratuidade,99
+825 - Cidade Func/Papicu/J,Inteira,460
+825 - Cidade Func/Papicu/J,Vale Transporte,854
+82 - Ant. Bezerra/Mess/Pe,Estudante,1034
+82 - Ant. Bezerra/Mess/Pe,Gratuidade,231
+82 - Ant. Bezerra/Mess/Pe,Inteira,1555
+82 - Ant. Bezerra/Mess/Pe,Vale Transporte,2466
+832 - Papicu/Cidade 2000,Estudante,669
+832 - Papicu/Cidade 2000,Gratuidade,220
+832 - Papicu/Cidade 2000,Inteira,997
+832 - Papicu/Cidade 2000,Vale Transporte,1368
+833 - Cidade 2000/Centro,Estudante,792
+833 - Cidade 2000/Centro,Gratuidade,408
+833 - Cidade 2000/Centro,Inteira,1314
+833 - Cidade 2000/Centro,Vale Transporte,1859
+835 - DEFENSORIA/PAPICU/VI,Estudante,93
+835 - DEFENSORIA/PAPICU/VI,Gratuidade,36
+835 - DEFENSORIA/PAPICU/VI,Inteira,101
+835 - DEFENSORIA/PAPICU/VI,Vale Transporte,231
+83 - ceara/lagoa/aanjos,Estudante,471
+83 - ceara/lagoa/aanjos,Gratuidade,167
+83 - ceara/lagoa/aanjos,Inteira,626
+83 - ceara/lagoa/aanjos,Vale Transporte,949
+841 - HGF/PAPICU,Estudante,410
+841 - HGF/PAPICU,Gratuidade,176
+841 - HGF/PAPICU,Inteira,782
+841 - HGF/PAPICU,Vale Transporte,1266
+84 - Siqueira/Messejana/P,Estudante,486
+84 - Siqueira/Messejana/P,Gratuidade,158
+84 - Siqueira/Messejana/P,Inteira,908
+84 - Siqueira/Messejana/P,Vale Transporte,1632
+855 - Bezerra de Menezes/,Estudante,3820
+855 - Bezerra de Menezes/,Gratuidade,388
+855 - Bezerra de Menezes/,Inteira,2418
+855 - Bezerra de Menezes/,Vale Transporte,4634
+85 - lagoa/aldeota/j.bast,Estudante,582
+85 - lagoa/aldeota/j.bast,Gratuidade,163
+85 - lagoa/aldeota/j.bast,Inteira,716
+85 - lagoa/aldeota/j.bast,Vale Transporte,2131
+86 - Bezerra / S.Dumont,Estudante,1592
+86 - Bezerra / S.Dumont,Gratuidade,321
+86 - Bezerra / S.Dumont,Inteira,2219
+86 - Bezerra / S.Dumont,Vale Transporte,3789
+87 - EXPRESSO/SIQUEIRA/PA,Estudante,154
+87 - EXPRESSO/SIQUEIRA/PA,Gratuidade,7
+87 - EXPRESSO/SIQUEIRA/PA,Inteira,368
+87 - EXPRESSO/SIQUEIRA/PA,Vale Transporte,912
+88 - Antonio Bezerra/Albe,Estudante,1578
+88 - Antonio Bezerra/Albe,Gratuidade,186
+88 - Antonio Bezerra/Albe,Inteira,1016
+88 - Antonio Bezerra/Albe,Vale Transporte,2132
+8 - TERMINAL PAPICU,Estudante,564
+8 - TERMINAL PAPICU,Gratuidade,65
+8 - TERMINAL PAPICU,Inteira,772
+8 - TERMINAL PAPICU,Vale Transporte,1134
+901 - Dom Luiz,Estudante,616
+901 - Dom Luiz,Gratuidade,304
+901 - Dom Luiz,Inteira,1273
+901 - Dom Luiz,Vale Transporte,1816
+903 - Varjota,Estudante,260
+903 - Varjota,Gratuidade,177
+903 - Varjota,Inteira,617
+903 - Varjota,Vale Transporte,760
+905 - Meireles,Estudante,537
+905 - Meireles,Gratuidade,233
+905 - Meireles,Inteira,1167
+905 - Meireles,Vale Transporte,1731
+906 - Caca e Pesca/Servilu,Estudante,887
+906 - Caca e Pesca/Servilu,Gratuidade,457
+906 - Caca e Pesca/Servilu,Inteira,2058
+906 - Caca e Pesca/Servilu,Vale Transporte,2316
+907 - Castelo Encantado/Ce,Estudante,296
+907 - Castelo Encantado/Ce,Gratuidade,207
+907 - Castelo Encantado/Ce,Inteira,833
+907 - Castelo Encantado/Ce,Vale Transporte,1113
+909 - Praia do Futuro/Caca,Estudante,548
+909 - Praia do Futuro/Caca,Gratuidade,212
+909 - Praia do Futuro/Caca,Inteira,1672
+909 - Praia do Futuro/Caca,Vale Transporte,1655
+90 - Corujao/Montese,Inteira,5
+90 - Corujao/Montese,Vale Transporte,12
+913 - Papicu/Serviluz/Varj,Estudante,530
+913 - Papicu/Serviluz/Varj,Gratuidade,129
+913 - Papicu/Serviluz/Varj,Inteira,799
+913 - Papicu/Serviluz/Varj,Vale Transporte,1246
+920 - Papicu/Caca Pesca,Estudante,606
+920 - Papicu/Caca Pesca,Gratuidade,195
+920 - Papicu/Caca Pesca,Inteira,1337
+920 - Papicu/Caca Pesca,Vale Transporte,1541
+92 - AB/PAP/PIRA,Estudante,1612
+92 - AB/PAP/PIRA,Gratuidade,380
+92 - AB/PAP/PIRA,Inteira,2921
+92 - AB/PAP/PIRA,Vale Transporte,4475
+95 - Corujao/Cj Pref. Jos,Estudante,2
+95 - Corujao/Cj Pref. Jos,Inteira,4
+95 - Corujao/Cj Pref. Jos,Vale Transporte,3
+96 - CONJUNTO CEARA/BARAO,Estudante,209
+96 - CONJUNTO CEARA/BARAO,Gratuidade,32
+96 - CONJUNTO CEARA/BARAO,Inteira,190
+96 - CONJUNTO CEARA/BARAO,Vale Transporte,572
+97 - Antonio Bezerra/Siqu,Estudante,549
+97 - Antonio Bezerra/Siqu,Gratuidade,121
+97 - Antonio Bezerra/Siqu,Inteira,693
+97 - Antonio Bezerra/Siqu,Vale Transporte,1090
+98 - EXPRESSO / ANTONIO B,Estudante,366
+98 - EXPRESSO / ANTONIO B,Gratuidade,41
+98 - EXPRESSO / ANTONIO B,Inteira,657
+98 - EXPRESSO / ANTONIO B,Vale Transporte,1333
+99 - Siqueira/Mucuripe/Ba,Estudante,1355
+99 - Siqueira/Mucuripe/Ba,Gratuidade,243
+99 - Siqueira/Mucuripe/Ba,Inteira,1871
+99 - Siqueira/Mucuripe/Ba,Vale Transporte,3880

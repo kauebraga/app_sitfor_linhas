@@ -1,0 +1,12 @@
+name: sitfor_linhas
+title: sitfor_linhas
+username:
+account: kauebraga
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 370932
+bundleId: 1463196
+url: https://kauebraga.shinyapps.io/sitfor_linhas/
+when: 1530643811.2059
+asMultiple: FALSE
+asStatic: FALSE
