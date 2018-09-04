@@ -9,7 +9,7 @@ library(shinydashboard)
 library(hrbrthemes)
 library(forcats)
 library(sp)
-library(rgdal)
+# library(rgdal)
 
 
 
@@ -17,8 +17,13 @@ library(rgdal)
 teste <- read_csv("data/teste.csv")
 teste.cartao <- read_csv("data/teste1.csv")
 
-linhas <- st_read("data/linhas/linhas.shp", crs = 4326) 
-linhas.paradas <- st_read("data/linhas_paradas/linhas_paradas1.shp", crs = 4326)
+linhas <- st_read("data/linhas_v2/linhas_v2.shp", crs = 4326) %>%
+  mutate(sentido = stringr::str_sub(lnh_snt, -1, -1)) %>%
+  mutate(linha_vai = as.character(linha))
+
+
+linhas.paradas <- st_read("data/linhas_paradas_v2/linhas_paradas_v2.shp", crs = 4326) %>%
+  mutate(sentido = stringr::str_sub(lnh_snt, -1, -1))
 
 teste1 <- teste %>%
   group_by(linha) %>%
@@ -69,16 +74,38 @@ function(input, output) {
     icon = "bus",
     library = "fa")
   
-  output$Mapa <- renderLeaflet({
-    leaflet() %>%
-      #addTiles() %>%
+
+output$Mapa <- renderLeaflet({
+  
+  if (nrow(filter(linhas, linha == input$linha)) == 2) {
+    
+      # leaflet() %>%
+      #   addProviderTiles(providers$CartoDB.Positron) %>%
+        mapview(filter(linhas, linha == input$linha), zcol = "sentido", layer.name = "Sentido")@map %>%
+        # addPolylines(data = filter(linhas, linha == input$linha & sentido == "I"), group = "Linha - Ida") %>%
+        # addPolylines(data = filter(linhas, linha == input$linha & sentido == "V"), group = "Linha - Volta") %>%
+        addAwesomeMarkers(data = filter(linhas.paradas, linha == input$linha & sentido == "I"), group = "Paradas - Ida", icon = icons) %>%
+        addAwesomeMarkers(data = filter(linhas.paradas, linha == input$linha & sentido == "V"), group = "Paradas - Volta", icon = icons) %>%
+        addLayersControl(overlayGroups = c("Paradas - Ida", "Paradas - Volta"),
+                         options = layersControlOptions(collapsed = FALSE)) %>%
+        addMiniMap()
+    
+  } else if (nrow(filter(linhas, linha == input$linha)) == 1) {
+
+      leaflet() %>%
       addProviderTiles(providers$CartoDB.Positron) %>%
-      addPolylines(data = filter(linhas, linha == input$linha)) %>%
-      addAwesomeMarkers(data = filter(linhas.paradas, linha == input$linha), group = "Paradas", icon = icons) %>%
-      addLayersControl(overlayGroups = "Paradas",
-                       options = layersControlOptions(collapsed = FALSE)) %>%
-      addMiniMap()
-  })
+    addPolylines(data = filter(linhas, linha_vai == input$linha), group = "Linha") %>%
+    addAwesomeMarkers(data = filter(linhas.paradas, linha == input$linha), group = "Paradas", icon = icons) %>%
+    addLayersControl(overlayGroups = c("Linha", "Paradas"),
+                    options = layersControlOptions(collapsed = FALSE)) %>%
+    addMiniMap()
+    
+  }
+      
+      
+    })
+
+  
   
   #infobox
 

@@ -1,14 +1,20 @@
 
 
 library(shiny)
-library(mapview)
+# library(mapview)
 library(sf)
 library(shinydashboard)
 #library(semantic.dashboard)
 library(readr)
 library(leaflet)
+library(dplyr)
 
-linhas <- st_read("data/linhas/linhas.shp", crs = 4326)
+linhas <- st_read("data/linhas_v2/linhas_v2.shp", crs = 4326) %>%
+  mutate(sentido = stringr::str_sub(lnh_snt, -1, -1)) %>%
+  mutate(linha_vai = as.character(linha))
+
+
+
 teste <- read_csv("data/teste.csv")
 
 
