@@ -25,6 +25,9 @@ linhas <- st_read("data/linhas_v2/linhas_v2.shp", crs = 4326) %>%
 linhas.paradas <- st_read("data/linhas_paradas_v2/linhas_paradas_v2.shp", crs = 4326) %>%
   mutate(sentido = stringr::str_sub(lnh_snt, -1, -1))
 
+arrows <- read_csv("arrows.csv") %>%
+  mutate(sentido = stringr::str_sub(linha_sentido, -1, -1))
+
 teste1 <- teste %>%
   group_by(linha) %>%
   summarise(total_valid = sum(n)) %>%
@@ -77,17 +80,23 @@ function(input, output) {
 
 output$Mapa <- renderLeaflet({
   
+  arrows_go <- filter(arrows, linha == input$linha)
+  
   if (nrow(filter(linhas, linha == input$linha)) == 2) {
     
       # leaflet() %>%
       #   addProviderTiles(providers$CartoDB.Positron) %>%
-        mapview(filter(linhas, linha == input$linha), zcol = "sentido", layer.name = "Sentido")@map %>%
+        (mapview(filter(linhas, linha == input$linha & sentido == "I"), layer.name = "Ida") +
+           mapview(filter(linhas, linha == input$linha & sentido == "V"), layer.name = "Volta"))@map %>%
+        # mapview(filter(linhas, linha == input$linha), zcol = "sentido", layer.name = "Sentido", legend = T)@map %>%
         # addPolylines(data = filter(linhas, linha == input$linha & sentido == "I"), group = "Linha - Ida") %>%
         # addPolylines(data = filter(linhas, linha == input$linha & sentido == "V"), group = "Linha - Volta") %>%
         addAwesomeMarkers(data = filter(linhas.paradas, linha == input$linha & sentido == "I"), group = "Paradas - Ida", icon = icons) %>%
         addAwesomeMarkers(data = filter(linhas.paradas, linha == input$linha & sentido == "V"), group = "Paradas - Volta", icon = icons) %>%
-        addLayersControl(overlayGroups = c("Paradas - Ida", "Paradas - Volta"),
-                         options = layersControlOptions(collapsed = FALSE)) %>%
+        leaflet.minicharts::addFlows(lng0 = arrows_go$x, lng1 = arrows_go$x1, lat0 = arrows_go$y, lat1 = arrows_go$y1, maxThickness = 5) %>%
+        addLayersControl(baseGroups = c("Ida", "Volta"),
+                        overlayGroups = c("Paradas - Ida", "Paradas - Volta"),
+                         options = layersControlOptions(collapsed = F)) %>%
         addMiniMap()
     
   } else if (nrow(filter(linhas, linha == input$linha)) == 1) {

@@ -81,4 +81,26 @@ st_read("/home/kaue/Documents/transporte_publico/data/linhas/linhas.shp", crs = 
   mutate(linha_sentido = paste(linhaa, stringr::str_sub(shape_id, 9, 19), sep = "")) %>%
   na.omit()
 
+sfc_as_cols <- function(x, names = c("x","y")) {
+  x <- st_cast(x, "POINT")
+  ret <- sf::st_coordinates(x)
+  ret <- tibble::as_tibble(ret)
+  stopifnot(length(names) == ncol(ret))
+  x <- x[ , !names(x) %in% names]
+  ret <- setNames(ret,names)
+  dplyr::bind_cols(x,ret)
+}
+
+
+oia <- sfc_as_cols(eca)
+
+oia %>%
+  group_by(linha_sentido) %>%
+  mutate(x1 = lead(x),
+         y1 = lead(y)) %>%
+  slice(-n()) %>%
+  slice(seq(1, n(), 10)) %>%
+  as_tibble() %>%
+  write_csv("arrows.csv")
+
 
