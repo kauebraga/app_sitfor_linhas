@@ -32,7 +32,7 @@ body <- dashboardBody(
            box(width = NULL, 
                solidHeader = TRUE,
                title = "Itinerário da Linha",
-               leafletOutput("Mapa", height = 700)
+               leafletOutput("map", height = 700)
            ),
            infoBoxOutput("progressBox"),
            infoBoxOutput("rank")
@@ -45,11 +45,11 @@ body <- dashboardBody(
                            label = "Escolha a linha:", 
                            choices = unique(linhas$linha), 
                            selected = "200 - ANTONIO BEZERRA/CENT"),
-               checkboxGroupInput(inputId = "teste",
+               checkboxGroupInput(inputId = "sentido",
                            label = "Selecione o sentido:",
                            choices = c("Ida" = "I", 
                                        "Volta" = "V"),
-                           selected = "Ida")
+                           selected = "I")
                            ),
            box(width = NULL, 
                status = "warning",
@@ -69,7 +69,7 @@ body <- dashboardBody(
 dashboardPage(
   title = "Linhas de Transporte Público de Fortaleza",
   header,
-  dashboardSidebar(disable = T),
+  dashboardSidebar(disable = F),
   body,
   skin = "black"
 )

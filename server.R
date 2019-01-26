@@ -64,7 +64,7 @@ function(input, output) {
       geom_point(data = media.total, aes(x = hora, y = prop))+
       scale_x_continuous(breaks = c(0:23), labels = paste0(0:23, "h"))+
       scale_y_percent()+
-      theme_ipsum()
+      theme_ipsum(base_size = 15, axis_title_size = 15, subtitle_size = 15)
       #scale_x_time(breaks = '1 hour', minor_breaks = '5 min')+
       
     
@@ -77,23 +77,35 @@ function(input, output) {
     icon = "bus",
     library = "fa")
   
-
-output$Mapa <- renderLeaflet({
+  paradas_escolhidas <- reactive({
+    filter(linhas.paradas, linha == input$linha)
+  })
   
-  arrows_go <- filter(arrows, linha == input$linha)
+  # arrows_go <- reactive ({
+  #   filter(arrows, linha == input$linha)
+  # }) 
+
+  # linha_escolhida <- reactive({
+  #   filter(linhas, linha == input$linha)
+  # })
+  
+output$map <- renderLeaflet({
   
   if (nrow(filter(linhas, linha == input$linha)) == 2) {
     
+    linha_escolhida <- filter(linhas, linha == input$linha)
+    
       # leaflet() %>%
       #   addProviderTiles(providers$CartoDB.Positron) %>%
-        (mapview(filter(linhas, linha == input$linha & sentido == "I"), layer.name = "Ida") +
-           mapview(filter(linhas, linha == input$linha & sentido == "V"), layer.name = "Volta"))@map %>%
+        # addFeatures(data = linha_escolhida()) %>%
+        (mapview(filter(linha_escolhida, sentido == "I"), layer.name = "Ida") +
+           mapview(filter(linha_escolhida, sentido == "V"), layer.name = "Volta"))@map %>%
         # mapview(filter(linhas, linha == input$linha), zcol = "sentido", layer.name = "Sentido", legend = T)@map %>%
         # addPolylines(data = filter(linhas, linha == input$linha & sentido == "I"), group = "Linha - Ida") %>%
         # addPolylines(data = filter(linhas, linha == input$linha & sentido == "V"), group = "Linha - Volta") %>%
-        addAwesomeMarkers(data = filter(linhas.paradas, linha == input$linha & sentido == "I"), group = "Paradas - Ida", icon = icons) %>%
-        addAwesomeMarkers(data = filter(linhas.paradas, linha == input$linha & sentido == "V"), group = "Paradas - Volta", icon = icons) %>%
-        leaflet.minicharts::addFlows(lng0 = arrows_go$x, lng1 = arrows_go$x1, lat0 = arrows_go$y, lat1 = arrows_go$y1, maxThickness = 5) %>%
+        addAwesomeMarkers(data = filter(paradas_escolhidas(), sentido == "I"), group = "Paradas - Ida", icon = icons) %>%
+        addAwesomeMarkers(data = filter(paradas_escolhidas(), sentido == "V"), group = "Paradas - Volta", icon = icons) %>%
+        # leaflet.minicharts::addFlows(lng0 = arrows_go()$x, lng1 = arrows_go()$x1, lat0 = arrows_go()$y, lat1 = arrows_go()$y1, maxThickness = 5) %>%
         addLayersControl(baseGroups = c("Ida", "Volta"),
                         overlayGroups = c("Paradas - Ida", "Paradas - Volta"),
                          options = layersControlOptions(collapsed = F)) %>%
@@ -113,6 +125,39 @@ output$Mapa <- renderLeaflet({
       
       
     })
+
+# paradas_escolhidas_ida <- reactive({
+#   filter(linhas.paradas, linha == input$linha & sentido == "I")
+# })
+# 
+# paradas_escolhidas_volta <- reactive({
+#   filter(linhas.paradas, linha == input$linha & sentido == "V")
+# })
+# 
+# 
+# 
+# observe({
+# 
+# map <- leafletProxy("map") %>% clearControls()
+# 
+#   if (input$map_groups == "Ida") {
+#     map <- map %>%
+#       addAwesomeMarkers(data = paradas_escolhidas_ida(), group = "Paradas", icon = icons) }
+# 
+#   else if (input$map_groups == "Volta") {
+#     map <- map %>%
+#       addAwesomeMarkers(data = paradas_escolhidas_volta(), group = "Paradas", icon = icons) }
+#     
+# 
+# })
+
+# observe({
+# 
+#   leafletProxy("map") %>%
+#     clearShapes() %>%
+#     addFeatures(data = sentido_escolhido())
+#     # addPolylines(data =  sentido_escolhido()
+# })
 
   
   
@@ -146,7 +191,7 @@ output$Mapa <- renderLeaflet({
       labs(x = "Tipo de Pagamento", y = "Frequência")+
       geom_col(fill = "grey85", color = "black")+
       coord_flip()+
-      theme_ipsum()
+      theme_ipsum(base_size = 15, axis_title_size = 15, subtitle_size = 15)
     #scale_x_time(breaks = '1 hour', minor_breaks = '5 min')+
     
     
